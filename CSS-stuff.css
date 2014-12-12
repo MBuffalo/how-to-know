@@ -1,3 +1,7 @@
 body{
-background-image : ref="images/site_03.jpg";
+background: url("images/site_03.jpg") repeat ;
+}
+
+h1{
+ color : blue;
 }
