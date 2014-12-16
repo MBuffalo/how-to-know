@@ -1,7 +1,20 @@
 body{
-background: url("images/site_03.jpg") repeat ;
+background: Black;
+margin: 0; padding: 0;
+height: 100%;
+}
+#uwot{
+	background: url("images/page_05.jpg") repeat-y ;
+	margin:auto;
+	width:1000px;
+	min-height: 900px;
+	padding: 50px;
 }
 
 h1{
- color : blue;
+ color : Black;
+}
+
+#header {
+	
 }
