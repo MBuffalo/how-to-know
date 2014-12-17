@@ -5,19 +5,24 @@ height: 100%;
 }
 
 #uwot{
-	background: url("images/page_05.jpg") repeat-y ;
+	background: url("images/page_05.jpg") repeat  ;
 	margin:auto;
 	width:900px;
 	min-height: 900px;
+	
 	padding: 50px;
 }
-
+a{
+	color: #a52a2a;
+}
 h1{
  color : Black;
 }
 
 #main{
 	text-align: center;
+	width : 420px;
+	float:left;
 }
 #main h1{
 	margin-left: -10px;
@@ -27,6 +32,22 @@ h1{
 #main p{
 	font-size: 20px;
 }
+
+#maintwo{
+	text-align: center;
+	width : 420px;
+	float:right;
+}
+#maintwo h1{
+	margin-left: 10px;
+}
+
+
+#maintwo p{
+	font-size: 20px;
+	
+}
+
 
 #header {
 	text-align: center;
@@ -48,6 +69,7 @@ h1{
 #menu{
 	text-align: center;
 	margin-left: -80px;
+	margin-top: 20px;
 }
 #menu a{
 
@@ -71,5 +93,10 @@ h1{
 
 
 
+}
+#centerlist{
+	text-align : left;
+	padding-left: 140px;
+	font-size: 20px;
 }
 
