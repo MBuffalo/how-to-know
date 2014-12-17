@@ -3,10 +3,11 @@ background: Black;
 margin: 0; padding: 0;
 height: 100%;
 }
+
 #uwot{
 	background: url("images/page_05.jpg") repeat-y ;
 	margin:auto;
-	width:1000px;
+	width:900px;
 	min-height: 900px;
 	padding: 50px;
 }
@@ -15,6 +16,60 @@ h1{
  color : Black;
 }
 
+#main{
+	text-align: center;
+}
+#main h1{
+	margin-left: -10px;
+}
+
+
+#main p{
+	font-size: 20px;
+}
+
 #header {
+	text-align: center;
+	font-size:12px;
+
 	
 }
+
+#header img {
+	margin-left: 20px;
+	
+
+	
+}
+
+#header h1{
+	margin-left: -10px;
+}
+#menu{
+	text-align: center;
+	margin-left: -80px;
+}
+#menu a{
+
+    text-decoration: none;
+    color : #a52a2a;
+    font-size: 30px;
+   
+
+}
+
+#menu ul{
+	list-style-type: none;
+	
+
+
+}
+#menu li{
+	
+	display: inline;
+	margin: 20px;
+
+
+
+}
+
